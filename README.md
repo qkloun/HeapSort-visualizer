@@ -4,6 +4,10 @@ It was made with sdl2, a c++ library which let me open up a window and visualize
 
 This project let me understand how the Heapsort algorithm organizes data in a visual representation, which let me further understand the complexities of sorting systems. This project gave me more experience in coding as I hadn't done anything similar to this before, so I would like to believe that this project would let other students process sorting algorithms more.
 
+Through developing this project, I:<br>
+Gained a deeper understanding of how HeapSort works internally.<br>
+Improved my ability to translate algorithm logic into visual representations.<br>
+Learned more about using SDL2 for rendering graphics in C++.
 
 ### Watch the inspiration video!
 <a href="https://www.youtube.com/watch?v=kPRA0W1kECg" target="_blank">
