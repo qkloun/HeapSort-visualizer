@@ -9,6 +9,14 @@ Gained a deeper understanding of how HeapSort works internally.<br>
 Improved my ability to translate algorithm logic into visual representations.<br>
 Learned more about using SDL2 for rendering graphics in C++.
 
+## Features
+•Real-time visualization of the heap sort algorithm<br>
+•Interactive display showing each step of the sorting process<br>
+•Highlighted elements to track current operations<br>
+•Smooth animations with customizable delay<br>
+•Random data generation for varied demonstrations<br>
+
+
 ### Watch the inspiration video!
 <a href="https://www.youtube.com/watch?v=kPRA0W1kECg" target="_blank">
   <img src="https://img.youtube.com/vi/kPRA0W1kECg/maxresdefault.jpg" width="400"/></a>
