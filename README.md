@@ -10,12 +10,20 @@ Improved my ability to translate algorithm logic into visual representations.<br
 Learned more about using SDL2 for rendering graphics in C++.
 
 ## Features
-•Real-time visualization of the heap sort algorithm<br>
-•Interactive display showing each step of the sorting process<br>
-•Highlighted elements to track current operations<br>
-•Smooth animations with customizable delay<br>
-•Random data generation for varied demonstrations<br>
+<ul>
+  <li>Real-time visualization of the heap sort algorithm<br></li>
+  <li>Interactive display showing each step of the sorting process<br></li>
+  <li>Highlighted elements to track current operations<br></li>
+  <li>Smooth animations with customizable delay<br></li>
+  <li>Random data generation for varied demonstrations<br></li>
+</ul>
 
+### Tech Used
+
+<ul>
+  <li><strong>C++</strong></li>
+  <li><strong>SDL2</strong></li>
+</ul>
 
 ### Watch the inspiration video!
 <a href="https://www.youtube.com/watch?v=kPRA0W1kECg" target="_blank">
