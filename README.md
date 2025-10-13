@@ -1,29 +1,34 @@
 # Welcome
-This project is a part of multiple similar projects that visualize the process of how algorithms sort data, this one would be showing how Heapsort would organize a set of data. 
-It was made with sdl2, a c++ library which let me open up a window and visualize the whole process to the screen.
+A real-time visualization tool that demonstrates how the Heapsort algorithm organizes data, built with C++ and SDL2.
 
-This project let me understand how the Heapsort algorithm organizes data in a visual representation, which let me further understand the complexities of sorting systems. This project gave me more experience in coding as I hadn't done anything similar to this before, so I would like to believe that this project would let other students process sorting algorithms more.
+## About
+This project is part of a series visualizing different sorting algorithms. Watching algorithms sort data in real-time helps bridge the gap between theoretical understanding and practical implementation—seeing Heapsort build and manipulate a heap structure makes the algorithm's mechanics much clearer than reading about it alone.
 
-Through developing this project, I:<br>
-Gained a deeper understanding of how HeapSort works internally.<br>
-Improved my ability to translate algorithm logic into visual representations.<br>
-Learned more about using SDL2 for rendering graphics in C++.
+Through developing this visualization, I:
+- Gained a deeper understanding of how Heapsort works internally
+- Improved my ability to translate algorithm logic into visual representations
+- Learned to use SDL2 for rendering graphics in C++
+
+I hope this tool helps other students grasp sorting algorithms more intuitively, especially those who learn better through visual demonstrations.
 
 ## Features
-<ul>
-  <li>Real-time visualization of the heap sort algorithm<br></li>
-  <li>Interactive display showing each step of the sorting process<br></li>
-  <li>Highlighted elements to track current operations<br></li>
-  <li>Smooth animations with customizable delay<br></li>
-  <li>Random data generation for varied demonstrations<br></li>
-</ul>
+- Real-time visualization of the heap sort algorithm
+- Interactive display showing each step of the sorting process
+- Highlighted elements to track current operations
+- Smooth animations with customizable delay
+- Random data generation for varied demonstrations
+
 
 ### Tech Used
+- **C++**
+- **SDL2**
 
-<ul>
-  <li><strong>C++</strong></li>
-  <li><strong>SDL2</strong></li>
-</ul>
+### Time Complexity
+
+- **Best Case:** O(n log n)
+- **Average Case:** O(n log n)
+- **Worst Case:** O(n log n)
+
 
 ### Watch the inspiration video!
 <a href="https://www.youtube.com/watch?v=kPRA0W1kECg" target="_blank">
