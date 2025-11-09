@@ -18,6 +18,20 @@ I hope this tool helps other students grasp sorting algorithms more intuitively,
 - Smooth animations with customizable delay
 - Random data generation for varied demonstrations
 
+## 🔍 How Heapsort Works
+
+Heapsort is a comparison-based sorting algorithm that uses a binary heap data structure. The algorithm consists of two main phases:
+
+### Phase 1: Build Max Heap
+1. Convert the unsorted array into a max heap (parent ≥ children)
+2. Start from the last non-leaf node and heapify downward
+3. Ensure the heap property is maintained throughout
+
+### Phase 2: Extract Elements
+1. Swap the root (maximum element) with the last element
+2. Reduce heap size by one
+3. Heapify the root to restore the heap property
+4. Repeat until the heap is empty
 
 ### Tech Used
 - **C++**
